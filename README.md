@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**elviravmg/elviravmg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Elvira Magallanes, an electrical engineer at UNAM school of engineering. I love to learn new things, playing video games, learning new languages, and coding!
 
-Here are some ideas to get you started:
+## 📫 How to reach me: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/elviramagallanes/) [![Twitter](http://i.imgur.com/wWzX9uB.png) Twitter](https://twitter.com/ElviraMagallans) 
+
+- 🌱 I’m currently learning Machine Learning and AI using TensorFlow.
+- 💬 Ask me about energy systems and robotics.
+- 💻 Lenguages: Python, Java, C
+- ⚡ Fun fact: I really **love soccer** and I'm currently learning german
+
+
