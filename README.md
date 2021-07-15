@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Elvira Magallanes, an electrical engineer at UNAM school of engineering. I love to learn new things, playing video games, learning new languages, and coding!
+I'm Elvira Magallanes, an electrical engineer at UNAM school of engineering. I love learning new things, playing video games, robotics and coding!
 
 ## 📫 How to reach me: 
 
